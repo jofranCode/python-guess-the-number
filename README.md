@@ -6,7 +6,7 @@ A simple command-line number guessing game written in Python.
 
 ## Description
 
-This project is a small CLI game where the user must guess a secret number between **1 and 20**.
+This project is a small CLI game where the user must guess a secret number.
 
 It was built to practice:
 
@@ -54,7 +54,7 @@ python guess_the_number.py
 The program will:
 
 - Ask for your name  
-- Generate a random number between 1 and 20  
+- Generate a random number  
 - Prompt you to guess the number  
 - Tell you if your guess is too high or too low  
 - Display the number of attempts once you win  
